@@ -4,4 +4,4 @@ pandas==1.2.1
 pandas_datareader==0.10.0
 scikit_learn==1.1.1
 streamlit==0.78.0
-tensorflow==2.4.1
+tensorflow==2.8.0
